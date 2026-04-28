@@ -1,0 +1,7 @@
+streamlit
+pydantic
+duckduckgo-search
+openai
+google-generativeai
+python-dotenv
+groq
